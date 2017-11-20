@@ -1,0 +1,40 @@
+2017-11-20 04:42:11 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/index.php/blog/
+Stack Trace:
+#0 /var/www/html/blog/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/blog/index.php(41): require('/var/www/html/b...')
+#2 {main}
+2017-11-20 04:42:12 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/index.php/blog/
+Stack Trace:
+#0 /var/www/html/blog/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/blog/index.php(41): require('/var/www/html/b...')
+#2 {main}
+2017-11-20 04:42:13 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/index.php/blog/
+Stack Trace:
+#0 /var/www/html/blog/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/blog/index.php(41): require('/var/www/html/b...')
+#2 {main}
+2017-11-20 04:42:46 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/index.php/blog/
+Stack Trace:
+#0 /var/www/html/blog/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/blog/index.php(41): require('/var/www/html/b...')
+#2 {main}
